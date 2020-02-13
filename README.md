@@ -1,3 +1,5 @@
+This is just a clone https://git.tt-rss.org/fox/tt-rss but with **restored release tags** so that it can be deployed on environments that depend those tags to exist...
+
 Tiny Tiny RSS
 =============
 
